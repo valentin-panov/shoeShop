@@ -1,6 +1,6 @@
 image: Ubuntu1804
 
-stack: node 14
+stack: node 16
 
 branches:
   only:
@@ -9,12 +9,12 @@ branches:
 cache: node_modules
 
 install:
-  - npm install
+  - yarn install
 
 build: off
 
 build_script:
-  - npm run build
+  - yarn run build
 
 deploy_script:
   - git config --global credential.helper store
