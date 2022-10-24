@@ -1,7 +1,7 @@
 ﻿# Дипломный проект курса «React»
-[![Build status](https://ci.appveyor.com/api/projects/status/9j2yswsxdg9nkahq?svg=true)](https://ci.appveyor.com/project/vapanov/ra16-diploma)
+[![Build status](https://ci.appveyor.com/api/projects/status/w160gfvxwatcyhle?svg=true)](https://ci.appveyor.com/project/vapanov/shoeshop)
 
-WEB VERSION: https://valentin-panov.github.io/ra16-diploma/
+WEB VERSION: https://valentin-panov.github.io/shoeShop/
 
 Дипломный проект представляет собой интернет-магазин обуви. Задача заключается в создании работающего приложения, всеми основными функциями которого можно пользоваться.
 
@@ -234,7 +234,7 @@ const fortune = (ctx, body = null, status = 200) => {
 {
   "owner": {
     "phone": "+7xxxxxxxxxxx",
-    "address": "Moscow City",
+    "address": "Moscow City"
   },
   "items": [
     {

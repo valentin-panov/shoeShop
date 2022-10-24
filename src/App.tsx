@@ -13,7 +13,7 @@ import MainPage from './components/MainPage/MainPage';
 import ProductCard from './components/ProductCard/ProductCard';
 import Cart from './components/Cart/Cart';
 
-export const appURL = '/ra16-diploma';
+export const appURL = '/shoeShop';
 export const serverURL = 'https://ra16-dplm-bcknd.herokuapp.com/api/';
 
 function App(): ReactElement {
