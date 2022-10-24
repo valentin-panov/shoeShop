@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "license": "MIT",
-  "homepage": "https://valentin-panov.github.io/ra16-diploma/",
+  "homepage": "https://valentin-panov.github.io/shoeShop/",
   "sideEffects": [
     "**/*.sass"
   ],
